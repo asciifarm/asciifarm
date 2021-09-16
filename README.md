@@ -30,8 +30,9 @@ We lovely craft for the community beautiful video lessons full of captions and u
 
 ## Thanks for your support!!
 Any contribute, from the donation to the source files, will be greatly appreciated by your community!
-We are working on a multi language support, but we need your help! 
-**Support this project now, send a request or fundrise new lessons-updates! **
+We are working on a multi language support, but we need your help!
+
+** Support this project now, send a request or fundrise new lessons-updates! **
 
 🔥 AVAILABLE ASCII-Farm Course fundraising options: 🔥
 
@@ -46,5 +47,3 @@ We are working on a multi language support, but we need your help!
 - Ask for a custom lesson fundraising
 
 ### Support and fundraise this project with a 🤩 [donation](https://www.paypal.com/donate?hosted_button_id=KYJD4H37GXTQS)
-
---->
