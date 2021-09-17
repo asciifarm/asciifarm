@@ -1,5 +1,3 @@
-000 ASCIIFARM INTRO
-
 Hi dev!
 Welcome to ASCII-Farm, we are close to the first release, leave your email to get notified on time!
 
