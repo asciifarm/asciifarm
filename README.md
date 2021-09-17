@@ -1,10 +1,11 @@
 
 
-# ✨ ASCII-Farm 🚜 asciifarm.io 🌱- live streaming dev playtime and courses🚀 ✨
+# 🌱 ASCII-Farm 🚜 asciifarm.io 🚀
+## live streaming dev playtime and courses 
 "There is nothing more rewarding to me than dirtying my hands on my keyboard." (any develeoper)
 Learn, Try, Discover, Build, Grow!
 
-#### 🤓 visit [https://asciifarm.io/](https://asciifarm.io/github-landing) for more info's
+#### This is the official ASCII-Farm repo 🤓 visit [https://asciifarm.io/](https://asciifarm.io/github-landing) for more info's
 
 👋 Hi, I’m @asciifarm, an open-source course 🌱 supported by donations and build on top of live streaming video sessions, follow my journey!
 
@@ -18,8 +19,6 @@ ASCII-Farm want to be a free dev space where you can grow, learn, discover, try 
 __ASCII-Farm courses was created for juniors devs, to learn how to be a developer.__
 
 But ASCII-Farm can be great for seniors too,  contributing to our courses through the git sources, and growing the new developers generations together! 
-
-#### Support this project with a [donation](https://www.paypal.com/donate?hosted_button_id=KYJD4H37GXTQS)
 
 ## Course lessons is fundraised by free donations.
 
