@@ -58,3 +58,5 @@ __Support this project now, send a request or fundrise new lessons-updates!__
 
 ### Support and fundraise this project with a 🤩 [donation](https://www.paypal.com/donate?hosted_button_id=KYJD4H37GXTQS)
 #### 🤓 visit https://asciifarm.io/ for more info's
+
+NOTE: Licensed under NonCommercial ShareAlike [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) - Not for
