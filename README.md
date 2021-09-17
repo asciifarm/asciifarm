@@ -16,9 +16,8 @@ Learn, Try, Discover, Build, Grow!
 
 ASCII-Farm want to be a free dev space where you can grow, learn, discover, try and build something new!
 
-__ASCII-Farm courses was created for juniors devs, to learn how to be a developer.__
-
-But ASCII-Farm can be great for seniors too,  contributing to our courses through the git sources, and growing the new developers generations together! 
+__ASCII-Farm courses was created for juniors devs, to learn how to be a developer,__
+but can be great for seniors too,  contributing to our courses through the git sources, and growing the new developers generations together! 
 
 ## Course lessons is fundraised by free donations.
 
@@ -41,7 +40,7 @@ Also:
 Occasionally, we realease some bonus courses and lives, based on. supporter requests and not only related with coding. Stay tuned!
 
 ## Thanks for your support!!
-Any contribute, from the donations to the feedbacks, will be greatly appreciated!
+Any contribute, from the donations to the feedbacks, will be greatly appreciated,
 
 __Support this project now, send a request or fundrise new lessons-updates!__
 
