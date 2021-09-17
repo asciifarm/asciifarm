@@ -1,8 +1,3 @@
-Hi dev!
-Welcome to ASCII-Farm, we are close to the first release, leave your email to get notified on time!
-
-
-
 # 🌱 ASCII-Farm 🚜 asciifarm.io 🚀
 ## live streaming coding playtime and courses 
 "There is nothing more rewarding to me than dirtying my hands on my keyboard." (any developer)
