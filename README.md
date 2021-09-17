@@ -3,6 +3,7 @@
 # 🌱 ASCII-Farm 🚜 asciifarm.io 🚀
 ## live streaming dev playtime and courses 
 "There is nothing more rewarding to me than dirtying my hands on my keyboard." (any develeoper)
+
 Learn, Try, Discover, Build, Grow!
 
 #### This is the official ASCII-Farm repo 🤓 visit [https://asciifarm.io/](https://asciifarm.io/github-landing) for more info's
