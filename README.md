@@ -1,10 +1,15 @@
+000 ASCIIFARM INTRO
+
+Hi dev!
+Welcome to ASCII-Farm, we are close to the first release, leave your email to get notified on time!
+
 
 
 # 🌱 ASCII-Farm 🚜 asciifarm.io 🚀
-## live streaming dev playtime and courses 
-"There is nothing more rewarding to me than dirtying my hands on my keyboard." (any develeoper)
+## live streaming coding playtime and courses 
+"There is nothing more rewarding to me than dirtying my hands on my keyboard." (any developer)
 
-Learn, Try, Discover, Build, Grow!
+Code, Learn, Try, Discover, Build, Grow!
 
 #### This is the official ASCII-Farm repo 🤓 visit [https://asciifarm.io/](https://asciifarm.io/github-landing) for more info's
 
@@ -15,35 +20,34 @@ Learn, Try, Discover, Build, Grow!
 - Youtube
 - [https://asciifarm.io/](https://asciifarm.io/journey)
 
-ASCII-Farm want to be a free dev space where you can grow, learn, discover, try and build something new!
+ASCII-Farm want to be a free coding space where you can grow, learn, discover, try and build something new!
 
-__ASCII-Farm courses was created for juniors devs, to learn how to be a developer,__
-but can be great for seniors too,  contributing to our courses through the git sources, and growing the new developers generations together! 
+__ASCII-Farm courses is created for juniors devs, to learn how to be a developer,__
+but is great for seniors, contributing to our courses through the git sources, growing the next developers generation together! 
 
 ## Course lessons is fundraised by free donations.
 
-#### If you like this project, pleasse consider to support us with a [donation](https://www.paypal.com/donate?hosted_button_id=KYJD4H37GXTQS)
+#### If you like this project, please consider to support us with a [donation](https://www.paypal.com/donate?hosted_button_id=KYJD4H37GXTQS)
 
 ## ASCII-Farm lesson starts with a live coding session to become a video lesson, and sometimes a github project!
 
-Any mistake, code refactor, bugfix, is on live streaming (so, sorry for the mistakes!)
+Any mistake, code refactor, bugfix, is on live streaming (sorry for the mistakes!)
 
 Thanks to supporters we are able to collect requests, prepare and release the lessons! 
-We lovely craft for the supporters, and the community beautiful video lessons full of captions and useful highlights!
+We lovely craft for the supporters and community beautiful video lessons full of captions and useful highlights!
 
-Also:
 
 - Video lessons are shared across our social network channels 
 - Lessons source-files are available on github as a repository
 
 ## One more thing to learn!
 
-Occasionally, we realease some bonus courses and lives, based on. supporter requests and not only related with coding. Stay tuned!
+Occasionally, we release bonus courses and lives, based on. supporter requests and not only related with coding. Stay tuned!
 
 ## Thanks for your support!!
 Any contribute, from the donations to the feedbacks, will be greatly appreciated,
 
-__Support this project now, send a request or fundrise new lessons-updates!__
+__Support this project now, send a request or fundraise new lessons-updates!__
 
 🔥 AVAILABLE ASCII-Farm Course fundraising options: 🔥
 
